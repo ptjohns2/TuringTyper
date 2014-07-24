@@ -1,5 +1,5 @@
 #TuringTyper   
-##Autotyper meant to pass a Turing Test of typing in a human-like way with errors and variation   
+##Autotyper meant to pass a Turing Test by typing in a human-like way with errors and variation   
       
 ###Features:      
  1. Normally distributed key press length   
