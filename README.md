@@ -8,6 +8,9 @@
  4. Variable rate of error correction and keypresses after error until backtracking   
  5. Hoykeys for starting and stopping the autotyper without having to click the GUI   
    
-   
+  
+    
+![Screenshot](/demos/GUI.png?raw=true)
+
    
 Note: To build yourself you must include the Ziggurat.au3 UDF available here http://www.autoitscript.com/forum/topic/107301-ziggurat-method-for-normal-random-numbers/, credits to andybiochem.  Otherwise use the provided binaries.   
